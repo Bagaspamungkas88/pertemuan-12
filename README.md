@@ -75,7 +75,7 @@ ini adalah output apabila memilih ubah(2)
 
 ini adalah output apabila memilih untuk tambah lagi
 
-![img](gamabr/tl1.png)
+![img](gambar/tambah1.png)
 
 ini adalah output apabila memilih hapus(3)
 
